@@ -1,6 +1,6 @@
 # systeminfo-logging | [Source](https://github.com/izonit/systeminfo-logging/)
 
-** A really slow CLI system info logging tool - written in JS.**
+**A really slow CLI system info logging tool - written in JS.**
 *I didn't create it for others to use - it's just a way to familiarize me with creating NPM tools and packages.*
 *Even though I don't recommend using it, if you do: I would be grateful if you give me tips on how to optimize or make the tool better!*
 
