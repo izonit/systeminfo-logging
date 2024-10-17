@@ -1,0 +1,28 @@
+{
+  "name": "systeminfo-logging",
+  "version": "1.0.6",
+  "main": "index.js",
+  "description": "A (slow) CLI tool for displaying system information of your machine",
+  "license": "GPL-3.0",
+  "author": {
+    "url": "https://github.com/mizorint",
+    "name": "mizorint"
+  },
+  "keywords": [
+    "system",
+    "information",
+    "logging",
+    "sysinfo",
+    "sysinfo-logging",
+    "os",
+    "cpu",
+    "memory"
+  ],
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "systeminformation": "^5.23.5"
+  },
+  "bin": {
+    "sysinfo": "index.js"
+  }
+}
